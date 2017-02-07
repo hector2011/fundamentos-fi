@@ -1,2 +1,2 @@
 # fundamentos-fi
-trabajos de fundamentos de programación 
+trabajos de fundamentos de programación.
